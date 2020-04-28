@@ -12,7 +12,7 @@
 *.swp
 tags
 nbproject/*
-
+env.js
 # Windows
 Thumbs.db
 
